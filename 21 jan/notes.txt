@@ -1,0 +1,15 @@
+T(n) = o(1) + T(n/2)
+
+
+cormen ----> bible for algorithms
+
+
+narasimha karumanchi
+
+
+himanshu kaushik.  
+dihhimento. 
+yt
+
+
+
